@@ -1,0 +1,3 @@
+Thisisafilewithspaces.
+Sometimeswehave4spaces:.Sometimesonlyone:.
+Andsometimeswealsohaveatab:.
